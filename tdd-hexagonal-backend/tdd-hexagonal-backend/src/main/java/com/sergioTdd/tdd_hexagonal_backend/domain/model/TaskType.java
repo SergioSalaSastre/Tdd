@@ -1,4 +1,4 @@
-package com.sergioTdd.tdd_hexagonal_backend.domain.Model;
+package com.sergioTdd.tdd_hexagonal_backend.domain.model;
 
 public enum TaskType {
     WORK,

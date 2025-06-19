@@ -1,7 +1,5 @@
-package com.sergioTdd.tdd_hexagonal_backend.Domain.Model;
+package com.sergioTdd.tdd_hexagonal_backend.domain.model;
 
-import com.sergioTdd.tdd_hexagonal_backend.domain.Model.Task;
-import com.sergioTdd.tdd_hexagonal_backend.domain.Model.TaskType;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;

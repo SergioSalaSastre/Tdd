@@ -1,4 +1,4 @@
-package com.sergioTdd.tdd_hexagonal_backend.infraestructure.API.Config;
+package com.sergioTdd.tdd_hexagonal_backend.infraestructure.API.config;
 
 import io.swagger.v3.oas.models.info.Info;
 import io.swagger.v3.oas.models.OpenAPI;
